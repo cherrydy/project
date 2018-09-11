@@ -1,0 +1,118 @@
+.wrap>.box>.main>.mBot{width:100%;margin:20px auto 0 auto;padding-top:30px;}
+.wrap>.box>.main>.mBot h1{font-size:36px;font-weight:500;text-align:left;color:#ada5a5;margin:20px 0;}
+.wrap>.box>.main>.mBot h2{font-size:30px;font-weight:500;text-align:left;color:#ada5a5;margin:20px 0;}
+.wrap>.box>.main>.mBot h3{font-size:24px;font-weight:500;text-align:left;color:#ada5a5;margin:20px 0;}
+.wrap>.box>.main>.mBot h4{font-size:18px;font-weight:500;text-align:left;color:#ada5a5;margin:20px 0;}
+.wrap>.box>.main>.mBot h5{font-size:14px;font-weight:500;text-align:left;color:#ada5a5;margin:20px 0;}
+.wrap>.box>.main>.mBot h6{font-size:12px;font-weight:500;text-align:left;color:#ada5a5;margin:20px 0;}
+.wrap>.box>.main>.mBot span{font-size:14px;color:#ada5a5;}
+.wrap>.box>.main>.mBot>.one,.two,.three,.four,.five,.six,.seven,.eight,.nine{width:80%;margin:80px auto 0 auto;}
+.wrap>.box>.main>.mBot>.one>p{font:bolder 40px 微软雅黑;width:100%;font-weight:500;color:black;}
+.wrap>.box>.main>.mBot>.one>table{width:95%;height:520px;margin:60px auto 0 auto;}
+
+.wrap>.box>.main>.mBot>.two>h2{color:black;margin-bottom:30px;}
+.wrap>.box>.main>.mBot>.two span{display:inline-block;border-radius:5px;padding:5px;}
+.wrap>.box>.main>.mBot>.two>div>h1>span>a{font-size:25px;color:#fff;}}
+.wrap>.box>.main>.mBot>.two>div>h2>span{display:inline-block;}
+.wrap>.box>.main>.mBot>.two>div>h2>span>a{font-size:20px;color:#fff;}
+.wrap>.box>.main>.mBot>.two>div>h3>span>a{font-size:18px;color:#fff;}
+.wrap>.box>.main>.mBot>.two>div>h4>span>a{font-size:16px;color:#fff;}
+.wrap>.box>.main>.mBot>.two>div>h5>span>a{font-size:14px;color:#fff;}
+.wrap>.box>.main>.mBot>.two>div>h6>span>a{font-size:10px;color:#fff;}
+.wrap>.box>.main>.mBot>.two>div a.vin{text-decoration:underline solid blue;}
+.wrap>.box>.main>.mBot>.three>h2{color:black;margin-bottom:30px;}
+.wrap>.box>.main>.mBot>.three>p{margin:20px 0;}
+.wrap>.box>.main>.mBot>.three>div{width:100%;height:20px;background:#f5f5f5;border-radius:5px;box-shadow:inset 0 1px 2px rgba(0, 0, 0, .1);}
+.wrap>.box>.main>.mBot>.three>div#one>div{width:20%;height:100%;border-radius:5px 0 0 5px;background:#337ab7}
+.wrap>.box>.main>.mBot>.three>div#two>div{width:60%;height:100%;border-radius:5px 0 0 5px;background:#5bc0de;}
+.wrap>.box>.main>.mBot>.three>div#three>div{width:30%;height:100%;border-radius:5px 0 0 5px;background:#5cb85c }
+.wrap>.box>.main>.mBot>.three>div#four>div{width:70%;height:100%;border-radius:5px 0 0 5px;background:#f0ad4e}
+.wrap>.box>.main>.mBot>.three>div#five>div{width:50%;height:100%;border-radius:5px 0 0 5px;background:#d9534f}
+.wrap>.box>.main>.mBot>.three>div#six>div{width:40%;height:100%;border-radius:5px 0 0 5px;background:#337ab7}
+.wrap>.box>.main>.mBot>.three>div:last-child>div{float:left;}
+.wrap>.box>.main>.mBot>.three>div:last-child>div:first-child{width:35%;height:100%;border-radius:5px 0 0 5px;background:#5cb85c}
+.wrap>.box>.main>.mBot>.three>div:last-child>div:last-child{width:10%;height:100%;background:#d9534f}
+.wrap>.box>.main>.mBot>.three>div:last-child>div.middle{width:20%;height:100%;background:#f0ad4e}
+
+.wrap>.box>.main>.mBot>.four>h2{color:black;margin-bottom:30px;}
+.wrap>.box>.main>.mBot>.four>div{width:100%;height:50px;line-height:50px;border-radius:5px;margin:20px 0;}
+.wrap>.box>.main>.mBot>.four>div.fOne{color:#3c763d;background:#dff0d8;border:1px solid #d6e9c6;}
+.wrap>.box>.main>.mBot>.four>div.fTwo{color:#31708f;background:#d9edf7;border:1px solid #bce8f1;}
+.wrap>.box>.main>.mBot>.four>div.fThree{color:#8a6d3b;background:#fcf8e3;border:1px solid #faebcc;}
+.wrap>.box>.main>.mBot>.four>div:last-child{color:#a94442;background:#f2dede;border:1px solid #ebccd1;}
+
+.wrap>.box>.main>.mBot>.five>h2{color:black;margin-bottom:30px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft{width:50%;float:left;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div{margin:50px 0 0 0;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div>ul{float:left;text-align:center;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div>ul>a{display:block;border:1px solid #f3e6e6;color:#ada5a5;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div:first-child{width:364px;height:50px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div:first-child>ul{width:50px;height:50px;;line-height:50px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div:first-child>ul>a{display:block;width:48px;height:48px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div.flM{width:294px;height:40px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div.flM>ul{width:40px;height:40px;;line-height:40px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div.flM>ul>a{display:block;width:38px;height:38px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div:last-child{width:224px;height:30px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div:last-child>ul{width:30px;height:30px;line-height:30px;}
+.wrap>.box>.main>.mBot>.five>ul.fLeft>div:last-child>ul>a{display:block;width:28px;height:28px;}
+.wrap>.box>.main>.mBot>.five a.min{background:#eee;color:#23527c;}
+
+.wrap>.box>.main>.mBot>.five{height:340px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight{width:50%;float:right;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div{margin:50px 0 0 0;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div>ul{float:left;text-align:center;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div>ul>a{display:block;border:1px solid #f3e6e6;color:#ada5a5;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div:first-child{width:364px;height:50px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div:first-child>ul{width:50px;height:50px;;line-height:50px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div:first-child>ul>a{display:block;width:48px;height:48px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div.frM{width:294px;height:40px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div.frM>ul{width:40px;height:40px;;line-height:40px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div.frM>ul>a{display:block;width:38px;height:38px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div:last-child{width:224px;height:30px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div:last-child>ul{width:30px;height:30px;line-height:30px;}
+.wrap>.box>.main>.mBot>.five>ul.fRight>div:last-child>ul>a{display:block;width:28px;height:28px;}
+
+.wrap>.box>.main>.mBot>.six>h2{color:black;margin-bottom:30px;}
+.wrap>.box>.main>.mBot>.six>div{width:100%;height:40px;line-height:40px;text-indent:1em;background:#eee;margin:10px 0;border-radius:5px;color:#666;}
+.wrap>.box>.main>.mBot>.six>div>a{color:#23527c;}
+.wrap>.box>.main>.mBot>.six>div>a:hover{text-decoration:underline;color:#666;}
+
+.wrap>.box>.main>.mBot>.seven>h2{color:black;margin-bottom:30px;}
+.wrap>.box>.main>.mBot>.seven>div{width:100%;height:400px;}
+.wrap>.box>.main>.mBot>.seven>div>ul{text-indent:1em;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sLeft{width:48%;float:left;margin-left:15px;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sLeft>table{width:100%;height:350px;margin:20px 0 0 0;border:1px solid #dcd4d4;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sLeft>tr:first-child{width:70%;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sLeft>tr>td>strong{color:#777;}
+.wrap>.box>.main>.mBot>.seven>div>ul p{margin-top:0px;text-indent:0em;}
+.wrap>.box>.main>.mBot>.seven>div>ul span{border-radius:10px;padding:2px;background:#f9f2f4;color:#c7254e;}
+.wrap>.box>.main>.mBot>.seven>div>ul b{padding:0 5px;border-radius:10px;color:#fff;font-size:14px;font-weight:500;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sRight{width:48%;float:right;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sRight>div{width:90%;margin-top:25px;border:1px solid #ccc;border-radius:5px;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sRight>div>li{width:100%;height:40px;border:1px solid #ccc;line-height:40px;text-indent:1em;position:relative;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sRight>div>li>a{color:#555;display:block;}
+.wrap>.box>.main>.mBot>.seven>div>ul.sRight>div>li>a>span{position:absolute;top:10px;right:20px;border-radius:12px;color:#fff;padding-right:12px;display:block;height:20px;line-height:20px;}
+
+.wrap>.box>.main>.mBot>.eight>h2{color:black;margin-bottom:30px;}
+.wrap>.box>.main>.mBot>.eight>div{width:100%;border:1px solid #e3e3e3;border-radius:5px;margin:15px 0;background:#f5f5f5;box-shadow:inset 0 1px 1px rgba(0, 0, 0, .05);}
+.wrap>.box>.main>.mBot>.eight>div>p{margin:20px 0 20px 10px;color:#333;}
+
+.wrap>.box>.main>.mBot>.nine{height:300px;}
+.wrap>.box>.main>.mBot>.nine>h2{color:black;margin-bottom:30px;}
+.wrap>.box>.main>.mBot>.nine>div.nTop{width:100%;height:50px;line-height:50px;border-bottom:1px solid #ccc;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>ul{width:100px;height:100%;text-align:center;float:left;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>ul>a{color:#23527c;display:block;width:100%;height:100%;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>span{display:inline-block;width:100px;height:48px;border:none;position:relative;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>span.yu{border:1px solid #337ab7;background:#eee;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>span>a{width:100%;height:100%;display:block;color:#23527c;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>span>a>span{width:10px;height:10px;display:inline-block;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>span>a>span>img{display:block;width:100%;height:100%;}
+.wrap>.box>.main>.mBot>.nine>div.nTop div{width:150px;height:60px;background:white;border:1px solid #ccc;position:absolute;top:55px;left:0;z-index:4;display:none;}
+.wrap>.box>.main>.mBot>.nine>div.nTop div>p{width:100%;height:30px;margin-top:0;line-height:30px;text-indent:1em;}
+.wrap>.box>.main>.mBot>.nine>div.nTop div>p>a{color:black;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>span>a.asd{background:#eee;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>ul>a.arr{color:#555;border:1px solid #ccc;border-bottom:none;}
+.wrap>.box>.main>.mBot>.nine>div.nTop>ul>a.asd{background:#eee;}
+.wrap>.box>.main>.mBot>.nine>div.nFoot{width:100%;height:auto;position:relative;}
+.wrap>.box>.main>.mBot>.nine>div.nFoot>p{position:absolute;top:0;left:0;margin-top:20px;display:none;}
+

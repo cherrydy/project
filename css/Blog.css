@@ -1,0 +1,25 @@
+/*第六部分*/
+.wrap>.box>.main>.mBott{width:85%;height:2000px;margin:20px auto 0 auto;}
+.wrap>.box>.main>.mBott>.mbLeft{width:61%;float:left;padding-top:30px;}
+.wrap>.box>.main>.mBott>.mbLeft>ul{width:100%;margin:20px 0 0 0;height:605px;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:first-child{width:730px;height:345px;margin-bottom:10px;border:1px solid #ccc;overflow:hidden;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:first-child>a>img{height:345px;display:block;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.left{width:100px;height:100px;float:left;background:#f35041;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.left>img{width:40px;height:40px;display:block;margin:30px;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.right{width:605px;float:right;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.right>li:first-child{font-weight:700;font-size:20px;color:black;margin:10px 0;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.right>li:first-child>a{color:black;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.right>li.abc>a{color:red;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.right>p{margin-top:20px;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.right>div{width:60px;height:34px;line-height:30px;text-align:center;margin-top:10px;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.right>div>a{width:56px;height:30px;display:block;color:#f35041;border:2px solid #f35041;}
+.wrap>.box>.main>.mBott>.mbLeft>ul>div:last-child>div.right>div>a.wram{background:#f35041;color:#fff}
+.wrap>.box>.main>.mBott>.mbLeft>div{width:294px;height:30px;margin-top:40px;}
+.wrap>.box>.main>.mBott>.mbLeft>div>ul{width:30px;height:30px;float:left;text-align:center;line-height:30px;}
+.wrap>.box>.main>.mBott>.mbLeft>div>ul>a{display:block;width:28px;height:28px;border:1px solid #f3e6e6;color:#ada5a5;}
+.wrap>.box>.main>.mBott>.mbLeft>div>ul>a.cold{background:#eee;color:#23527c}
+.wrap>.box>.main>.mBott>.mbRight{width:35%;float:right;padding-top:30px;}
+.wrap>.box>.main>.mBott>.mbRight>h3{font-size:20px;margin:10px 0;}
+.wrap>.box>.main>.mBott>.mbRight>ul>li{width:100%;height:40px;line-height:40px;font-size:14px;}
+.wrap>.box>.main>.mBott>.mbRight>ul>li>a{color:#ada5a5;}
+.wrap>.box>.main>.mBott>.mbRight>ul>li>span{color:black;font-weight:700;font-size:20px;}

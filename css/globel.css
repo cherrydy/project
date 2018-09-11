@@ -1,0 +1,61 @@
+*{margin:0;padding:0;}
+ul{list-style:none;}
+a{text-decoration:none;}
+
+.wrap{width:100%;,height:auto;padding-top:80px;}
+/*网页头部*/
+.wrap>.head{width:100%;height:87px;box-shadow:0 3px 3px #615f5f2b;background:white;}
+.wrap>.head>ul{width:80%;height:100%;margin:0 auto;}
+.wrap>.head>ul>li{float:left;margin-left:70px;height:87px;line-height:87px;}
+.wrap>.head>ul>li>a{color:#000;font:bolder 16px 微软雅黑;border:1px dashed white;}
+.wrap>.head>ul>li.art>a{font-size:35px;}
+.wrap>.head>ul>li>a.trans{color:red;}
+.wrap>.head>ul>li>a.tran{border:1px dashed red;}
+
+/*网页主体*/
+.wrap>.box{width:100%;margin:3px 0 0 0;}
+.wrap>.box>.main{width:100%;display:none;}
+.wrap>.box>.main>.mTo,.mTop,.mTope,.mToped{width:100%;background:url(../images/1.jpg);padding:50px 0 50px 0;}
+
+/*尾部*/
+.wrap>.foot{width:100%;height:465px;}
+.wrap>.foot h4{margin:40px auto 0 auto;width:100%;font-weight:700;font-size:20px;color:white;}
+.wrap>.foot p{width:100%;margin-top:20px;font:13px/1.8 微软雅黑;color:#bbbbbb}
+.wrap>.foot>.fTop{width:100%;height:412px;background:#191d20;}
+.wrap>.foot>.fTop>ul{width:80%;height:100%;margin:0 auto;}
+.wrap>.foot>.fTop>ul>.ftLeft{width:51%;height:100%;float:left;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft{width:51%;float:left;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>h6{margin:20px auto 0 auto;width:100%;font-weight:600;font-size:16px;color:white;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>ul{height:44px;margin-top:20px;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>ul>li{width:30px;height:30px;border:2px solid #191d20;margin-right:20px;float:left;position:relative;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>ul>li.fc{border-color:#3b5998;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>ul>li.fs{border-color:#337ab7;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>ul>li.ss{border-color:#f26522;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>ul>li.lc{border-color:#45668e;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>ul>li>a>img{width:20px;height:20px;display:block;margin:5px;position:absolute;top:0;left:0;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlLeft>ul>li>a>img:last-child{display:none;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlRight{width:49%;float:right;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlRight>li{width:100%;margin-top:20px;font:13px/1.8 微软雅黑;color:#bbbbbb}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlRight>li.fool{height:30px;position:relative;margin-top:15px;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlRight>li>img{width:20px;height:20px;margin:5px 5px 5px 0;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlRight>li>span{display:inline-block;position:absolute;top:3px;left:35px;}
+.wrap>.foot>.fTop>ul>.ftLeft>.ftlRight>li>a{color:#f35041;}
+.wrap>.foot>.fTop>ul>.ftRight{width:49%;height:100%;float:right;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrLeft{width:53%;float:left;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrLeft>div{width:100%;margin-top:20px;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrLeft>div>ul>li{width:74px;height:74px;float:left;margin:8px;border:2px solid white;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrLeft>div>ul>li.cat{border:2px solid #f35041;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrLeft>div>ul>li>a>img{width:100%;height:100%;display:block;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrRight{width:46%;float:right;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrRight>form{width:100%;margin-top:20px;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrRight>form>input:first-child{width:240px;height:40px;outline:none;padding-left:10px;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrRight>form>h5{width:150px;height:15px;margin:0;font:12px 微软雅黑;color:#f00;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrRight>form>input.second{width:100px;height:40px;background:transparent;outline:none;border:2px solid #fff;color:#fff;}
+.wrap>.foot>.fTop>ul>.ftRight>.ftrRight>form>input.win{color:white;background:red;border:2px solid red;}
+
+.wrap>.foot>.fBottom{width:100%;height:53px;background:#0f1215;}
+.wrap>.foot>.fBottom>ul>li{width:100%;height:53px;line-height:53px;font-size:14px;text-align:center;color:#bbbbbb;}
+
+.wrap>.foot>.fixed{width:70px;height:70px;position:fixed;top:650px;right:-70px;}
+/*.wrap>.foot>.fixed>ul{width:70px;height:70px;}*/
+.wrap>.foot>.fixed>ul>a>img{display:block;width:70px;height:70px;}

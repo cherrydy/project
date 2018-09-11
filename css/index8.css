@@ -1,0 +1,42 @@
+.wrap>.box>.main>.middle{width:85%;height:1800px;margin:20px auto 0 auto;}
+.wrap>.box>.main>.middle>.mainL{width:61%;float:left;padding-top:30px;}
+.wrap>.box>.main>.middle>.mainL>ul{width:100%;margin:20px 0 0 0;height:650px;}
+.wrap>.box>.main>.middle>.mainL>ul>div:first-child{width:730px;height:345px;margin-bottom:10px;border:1px solid #ccc;overflow:hidden;}
+.wrap>.box>.main>.middle>.mainL>ul>div:first-child>a>img{height:345px;display:block;}
+.wrap>.box>.main>.middle>.mainL>ul>div:first-child>>a>img{height:345px;width:730px;display:block;}
+.wrap>.box>.main>.middle>.mainL>ul>div:last-child>div.left{width:100px;height:100px;float:left;background:#f35041;}
+.wrap>.box>.main>.middle>.mainL>ul>div:last-child>div.left>img{width:40px;height:40px;display:block;margin:30px;}
+.wrap>.box>.main>.middle>.mainL>ul>div:last-child>div.right{width:605px;float:right;}
+.wrap>.box>.main>.middle>.mainL>ul>div:last-child>div.right>li:first-child{font-weight:700;font-size:20px;color:black;margin:10px 0;}
+.wrap>.box>.main>.middle>.mainL>ul>div:last-child>div.right>li.yami>a{color:red;}
+.wrap>.box>.main>.middle>.mainL>ul>div:last-child>div.right>p{margin-top:20px;}
+
+.wrap>.box>.main>.middle>.mainL>.mlTop{width:100%}
+.wrap>.box>.main>.middle>.mainL h3{font-size:20px;margin:30px 0;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul{width:100%;height:150px;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div.tl{width:100px;height:150px;float:left;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div.tl>li:first-child{width:70px;height:100px;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div.tl>li>a{width:100%;height:100%;display:block;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div.tl>li>a>img{width:70px;height:100px;display:block;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div.tl>li:last-child{margin:10px 0 0 10px;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div>li{color:#ada5a5;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div>li>a{color:#f35041;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul.shart{margin-left:70px;width:90%;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul.shart>div.tr{width:84%;float:right;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div.tr{width:86%;float:right;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div.tr>p{font-size:12px;}
+.wrap>.box>.main>.middle>.mainL>.mlTop>ul>div.tr>li{height:30px;margin:20px 20px 0 0;float:right;}
+
+.wrap>.box>.main>.middle>.mainL>.mlFoot{width:100%;}
+.wrap>.box>.main>.middle>.mainL input{margin:0;width:97%;outline:none;border:1px solid #ccc;}
+.wrap>.box>.main>.middle>.mainL textarea{resize:none;width:97%;outline:none;border:1px solid #ccc;}
+.wrap>.box>.main>.middle>.mainL h5{width:150px;height:15px;margin:0;font:12px 微软雅黑;color:red;}
+.wrap>.box>.main>.middle>.mainL>.mlFoot>div{width:80px;height:40px;line-height:36px;text-align:center;}
+.wrap>.box>.main>.middle>.mainL>.mlFoot>div>a{display:block;width:76px;height:36px;color:#f35041;border:2px solid #f35041;}
+.wrap>.box>.main>.middle>.mainL>.mlFoot>div>a.rash{background:#f35041;color:white}
+
+.wrap>.box>.main>.middle>.mainR{width:35%;float:right;padding-top:30px;}
+.wrap>.box>.main>.middle>.mainR>h3{font-size:20px;margin:10px 0;}
+.wrap>.box>.main>.middle>.mainR>ul>li{width:100%;height:40px;line-height:40px;font-size:14px;}
+.wrap>.box>.main>.middle>.mainR>ul>li>a{color:#ada5a5;}
+.wrap>.box>.main>.middle>.mainR>ul>li>span{color:black;font-weight:700;font-size:20px;}
